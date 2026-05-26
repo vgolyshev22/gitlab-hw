@@ -66,6 +66,9 @@ build-job:
   stage: build
   script:
     - echo "BUILD STAGE"
-`Скриншоты в ветке img
-![Pipeline](https://github.com/vgolyshev22/gitlab-hw/blob/main/img/Pipeline.png)
-![Runner](https://github.com/vgolyshev22/gitlab-hw/blob/main/img/Runner.png)`
+
+```
+
+![Pipeline](img/Pipeline.png)
+
+![Runner](img/Runner.png)
